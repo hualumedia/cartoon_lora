@@ -1,3 +1,14 @@
 model/lvna-lora-08.safetensors filter=lfs diff=lfs merge=lfs -text
 model filter=lfs diff=lfs merge=lfs -text
 images filter=lfs diff=lfs merge=lfs -text
+model/bianping-lora.safetensors filter=lfs diff=lfs merge=lfs -text
+model/boboye-lora.safetensors filter=lfs diff=lfs merge=lfs -text
+model/dxl-suxiaobei-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/ertongchahua-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/guofeng-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/huaijiumanhua-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/youhua-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/xiangsu-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/keai-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/shuicai-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
+model/shuimo-lora-000008.safetensors filter=lfs diff=lfs merge=lfs -text
